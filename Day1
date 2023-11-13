@@ -1,0 +1,22 @@
+<div class="frame">
+    <div class="center">
+        <div class="all-content">
+            <div class="number">
+                <div class="number-1-I">
+                    <div class="number-1-I box-shadow"></div>
+                    <div class="barre-1"></div>
+                </div>
+                <div class="number-O-1 box-shadow"></div>
+                <div class="number-O-2 box-shadow"></div>
+            </div>
+            <div class="text-content">
+                <div class="days-text">
+                    <p>DAYS</p>
+                </div>
+                <div class="css-text">
+                    <p>CSS CHALLENGE</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
